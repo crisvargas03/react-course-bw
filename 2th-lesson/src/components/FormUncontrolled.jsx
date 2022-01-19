@@ -27,10 +27,6 @@ const FormUncontrolled = () => {
     console.log("Go!");
   }
 
-  
-
-
-
   return (
     <div>
       <h2>Formulario No Controlado</h2>
