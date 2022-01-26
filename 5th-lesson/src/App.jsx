@@ -1,7 +1,7 @@
 import React from "react";
 import { Outlet } from "react-router-dom";
 import Navbar from "./components/Navbar";
-import CustomFooter from "./Hooks/CustomFooter";
+import CustomFooter from "./hooks/CustomFooter";
 
 const App = () => {
   return (

@@ -1,7 +1,7 @@
 import React from "react";
 import { useParams } from "react-router-dom";
-import Loading from "../Hooks/Loading";
-import { useFetch } from "../Hooks/useFetch";
+import Loading from "../hooks/Loading";
+import { useFetch } from "../hooks/useFetch";
 
 const Post = () => {
   const params = useParams();

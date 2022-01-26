@@ -33,7 +33,6 @@ ReactDOM.render(
                 </CheckUser>
               }
             />
-
             <Route path="*" element={<NotFound />} />
           </Route>
         </Routes>

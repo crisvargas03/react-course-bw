@@ -1,6 +1,6 @@
 import React from "react";
-import { useFetch } from "../Hooks/useFetch";
-import Loading from "../Hooks/Loading";
+import { useFetch } from "../hooks/useFetch";
+import Loading from "../hooks/Loading";
 import { Link, useSearchParams } from "react-router-dom";
 
 const Blog = () => {
